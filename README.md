@@ -1,7 +1,7 @@
 Homegate_notes
 ==============
-homegate_notes is a Greasemonkey script to annotate various
-real estate search engines.
+homegate_notes is a Greasemonkey script to annotate the search
+results of various real estate search engines.
 
 See http://sourcepole.ch/2011/4/17/annotating-third-party-web-pages
 for an example.
