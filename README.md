@@ -27,10 +27,13 @@ Supported real estate search engines
 
 Tips
 ----
-Schaffhausen.ch does Ajax requests to retrieve its results. I have not yet
-figured out how to catch those automatically and then add the note input
-fields. Thus you need to click on the little "show notes" field in the
-bottom left, to load the note fields.
+* Schaffhausen.ch does Ajax requests to retrieve its results. I have not yet
+  figured out how to catch those automatically and then add the note input
+  fields. Thus you need to click on the little "show notes" field in the
+  bottom left, to load the note fields.
+
+* if you prefix your note with "nix:" then the comment will be coloured in
+  blue, suggesting that the annotated estate is not interesting.
 
 License
 -------
