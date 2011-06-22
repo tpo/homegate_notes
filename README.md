@@ -10,13 +10,13 @@ The script also illustrates how you can make a Greasemonkey script that
 lets you annotate search results.
 
 For Greasemonkey see:
-* http://www.greasespot.net/
+http://www.greasespot.net/
 
 You can find many more Greasemonkey scripts at:
-* http://userscripts.org/
+http://userscripts.org/
 
 Actually this script also has a second home there:
-* http://userscripts.org/scripts/show/101302
+http://userscripts.org/scripts/show/101302
 
 
 Supported real estate search engines
